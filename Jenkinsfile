@@ -15,6 +15,7 @@ pipeline {
             steps {
                 script {
                     sh './PES1UG22CS461-1'
+			intentional error
                 }
             }
         }
